@@ -17,19 +17,6 @@ bastante extenso, incomprendible y que no me  iba ayudar en algun momento entend
 """
 
 
-def comprueba_fondo():
-    pass
-
-
-DOCUMENTOS = ["doc", "docx"]
-
-def usuario():
-    pass
-
-def password():
-    pass
-
-
 
 
 
